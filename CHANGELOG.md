@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Aug 08 2024)
+
+#### 🐛 Bug Fix
+
+- Update index.js [#2](https://github.com/cafaeinn/container-v3jqk2a/pull/2) ([@cafaeinn](https://github.com/cafaeinn))
+
+#### Authors: 1
+
+- [@cafaeinn](https://github.com/cafaeinn)
+
+---
+
 # v0.0.1 (Thu Aug 08 2024)
 
 :tada: This release contains work from a new contributor! :tada:
